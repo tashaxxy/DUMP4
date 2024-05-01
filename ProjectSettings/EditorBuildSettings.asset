@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/FaceDetectionYuNetExample 1.unity
+    guid: 75549f4dcf4f2d94689d7d942dacaec5
+  - enabled: 0
+    path: Assets/Project/MainMenu.unity
+    guid: 89c895be992fdea438f628f20dd66a40
+  - enabled: 1
+    path: Assets/Project/StartPage.unity
+    guid: 3d83b99340ecbd240ae9802d20cad8ce
+  - enabled: 1
+    path: Assets/Project/HouseLevelMenu.unity
+    guid: 1cb735086ac3279428a5d300178b1f36
+  - enabled: 1
+    path: Assets/Project/SchoolLevelMenu.unity
+    guid: 3fd15499f702e0e41bd593aaa832e341
+  - enabled: 1
+    path: Assets/Project/Graphics/house/House1.unity
+    guid: 855bdbcaf3d041841845a07a9989b1e7
+  - enabled: 1
+    path: Assets/Project/Graphics/school/School1.unity
+    guid: a7a76d5b4f587fd4cae1bd6767aca646
+  m_configObjects: {}

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - recyclable
+  - bio
+  - nonbio
+  - life
+  - bottlesandcans
+  - glass
+  - healthcare
+  - kitchen
+  - metals
+  - paper
+  - plastic
+  - wets
+  - hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Camera
+    uniqueID: 3015236777
+    locked: 0
+  - name: Canvas
+    uniqueID: 3826975003
+    locked: 0
